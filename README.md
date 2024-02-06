@@ -19,7 +19,7 @@ Welcome to the Quiz Game repository! This repository contains a simple quiz game
 2. Navigate to the project directory:
 
     ```bash
-    cd game
+    cd quiz-game-py
     ```
 
 3. Run the game:
